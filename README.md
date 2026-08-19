@@ -189,13 +189,14 @@ Personal 3D interactive portfolio built with HTML, CSS, JS & Three.js. Hosted on
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutosh7034&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=378add&text_color=c9d1d9&count_private=true" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh7034&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&text_color=c9d1d9&langs_count=8" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7034&theme=tokyonight&hide_border=true&background=0d1117&ring=7f77dd&fire=378add&currStreakLabel=7f77dd&sideLabels=c9d1d9&dates=c9d1d9" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh7034&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7f77dd&line=378add&point=ffffff" />
 
