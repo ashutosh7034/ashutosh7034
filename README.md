@@ -21,7 +21,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/ashutosh7034?label=Followers&style=flat-square&color=378add" />
 &nbsp;
-<img src="https://img.shields.io/badge/Repos-40+-7f77dd?style=flat-square" />
+<img src="https://img.shields.io/badge/Repos-50+-7f77dd?style=flat-square" />
 
 </div>
 
