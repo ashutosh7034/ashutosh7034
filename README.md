@@ -5,15 +5,12 @@
 <a href="https://ashutoshpandey34.netlify.app/">
   <img src="https://img.shields.io/badge/🌐 Portfolio-ashutoshpandey34.netlify.app-7f77dd?style=for-the-badge&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/ashutoshpandey34/">
   <img src="https://img.shields.io/badge/LinkedIn-ashutoshpandey34-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:ashutosh3276s16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ashutosh3276s16-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="tel:+919702420582">
   <img src="https://img.shields.io/badge/Phone-+91 9702420582-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
@@ -21,13 +18,9 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ashutosh7034&label=Profile%20Views&color=7f77dd&style=flat-square" />
-
 &nbsp;
-
 <img src="https://img.shields.io/github/followers/ashutosh7034?label=Followers&style=flat-square&color=378add" />
-
 &nbsp;
-
 <img src="https://img.shields.io/badge/Repos-50+-7f77dd?style=flat-square" />
 
 </div>
@@ -44,7 +37,7 @@ class AshutoshPandey:
         self.phone       = "+91 9702420582"
         self.email       = "ashutosh3276s16@gmail.com"
         self.portfolio   = "https://ashutoshpandey34.netlify.app/"
-        self.linkedin    = "https://linkedin.com/in/ashutoshpandey34"
+        self.linkedin    = "https://linkedin.com/in/ashutoshpandey34/"
 
         self.education   = [
             "🎓 MCA  →  Thakur College of Engineering & Technology (TCET)  [2025–Present]",
@@ -61,20 +54,15 @@ class AshutoshPandey:
             "interests" : ["RAG / LLMs", "Machine Learning", "Full Stack", "Data Science", "Flutter"],
         }
 
-        self.achievements = [
-            "🦈 Pull Shark",
-            "🎯 YOLO",
-            "🏆 Aavishkar Research Convention – Final Round"
-        ]
-
-        self.fun_fact = "I built an AI assistant that answers college students' academic queries 🤖"
+        self.achievements = ["🦈 Pull Shark", "🎯 YOLO", "🏆 Aavishkar Research Convention – Final Round"]
+        self.fun_fact     = "I built an AI assistant that answers college students' academic queries 🤖"
 ```
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -84,7 +72,7 @@ class AshutoshPandey:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+**Frameworks & Tools**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -95,7 +83,7 @@ class AshutoshPandey:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
-### Platforms & Design
+**Platforms & Design**
 
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
@@ -109,11 +97,9 @@ class AshutoshPandey:
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 RAG-based Academic Assistant
-
 `Jan 2026 – Mar 2026`
 
 Retrieval-Augmented Generation system that answers students' academic queries by fetching content from a knowledge base and generating contextual responses via LLM.
@@ -124,11 +110,9 @@ Retrieval-Augmented Generation system that answers students' academic queries by
 ![AI](https://img.shields.io/badge/AI-7f77dd?style=flat-square)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔍 Local Service Search Engine
-
 `Feb 2025 – May 2025`
 
 Platform for discovering nearby services — electricians, plumbers, mechanics, tutors — with location-based search and a user-friendly interface.
@@ -138,15 +122,11 @@ Platform for discovering nearby services — electricians, plumbers, mechanics, 
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-7f77dd?style=flat-square)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🧠 QuizAI
-
 `Sep 2024 – Nov 2024`
 
 AI-powered quiz app for dynamic learning, programming practice, and quiz creation. Features leaderboards, user insights, and adaptive difficulty levels.
@@ -156,11 +136,9 @@ AI-powered quiz app for dynamic learning, programming practice, and quiz creatio
 ![AI](https://img.shields.io/badge/AI-378add?style=flat-square)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio Website
-
 `2025 – Present`
 
 Personal 3D interactive portfolio built with HTML, CSS, JS & Three.js. Hosted on Netlify — features particle backgrounds, tilt cards, and GSAP scroll animations.
@@ -170,7 +148,6 @@ Personal 3D interactive portfolio built with HTML, CSS, JS & Three.js. Hosted on
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 </td>
-
 </tr>
 </table>
 
@@ -211,21 +188,16 @@ Personal 3D interactive portfolio built with HTML, CSS, JS & Three.js. Hosted on
 
 <div align="center">
 
-<!-- GitHub Overview Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutosh7034&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=378add&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-
-<!-- Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutosh7034&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=378add&text_color=c9d1d9&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh7034&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&text_color=c9d1d9&langs_count=8" />
 
-<br/><br/>
+<br/>
 
-<!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com/?user=ashutosh7034&theme=tokyonight&hide_border=true&background=0d1117&ring=7f77dd&fire=378add&currStreakLabel=7f77dd&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh7034&theme=tokyonight&hide_border=true&background=0d1117&ring=7f77dd&fire=378add&currStreakLabel=7f77dd&sideLabels=c9d1d9&dates=c9d1d9" />
 
-<br/><br/>
+<br/>
 
-<!-- Full-Year Contribution Graph -->
-<img src="https://github.pumbas.net/api/contributions/ashutosh7034?days=365&colour=7f77dd&bgColour=0d1117&dotColour=378add&borderRadius=8" alt="Ashutosh Pandey's GitHub Contributions" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh7034&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7f77dd&line=378add&point=ffffff" />
 
 </div>
 
@@ -235,9 +207,7 @@ Personal 3D interactive portfolio built with HTML, CSS, JS & Three.js. Hosted on
 
 <div align="center">
 
-🦈 **Pull Shark** &nbsp;&nbsp;|&nbsp;&nbsp;
-🎯 **YOLO** &nbsp;&nbsp;|&nbsp;&nbsp;
-🏆 **Aavishkar Research Convention – Final Round (Univ. of Mumbai)**
+🦈 **Pull Shark** &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 **YOLO** &nbsp;&nbsp;|&nbsp;&nbsp; 🏆 **Aavishkar Research Convention – Final Round (Univ. of Mumbai)**
 
 </div>
 
@@ -250,7 +220,7 @@ Personal 3D interactive portfolio built with HTML, CSS, JS & Three.js. Hosted on
 | | |
 |---|---|
 | 🌐 Portfolio | [ashutoshpandey34.netlify.app](https://ashutoshpandey34.netlify.app/) |
-| 💼 LinkedIn | [linkedin.com/in/ashutoshpandey34](https://linkedin.com/in/ashutoshpandey34/) |
+| 💼 LinkedIn | [linkedin.com/in/ashutoshpandey34](https://www.linkedin.com/in/ashutoshpandey34/) |
 | 📧 Email | [ashutosh3276s16@gmail.com](mailto:ashutosh3276s16@gmail.com) |
 | 📱 Phone | +91 9702420582 |
 | 📍 Location | Vasai East, Mumbai, Maharashtra, India |
